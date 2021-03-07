@@ -96,3 +96,7 @@ footer {
 .content-title {
   text-align: center;
 }
+
+.message-back {
+  display: none;
+}
